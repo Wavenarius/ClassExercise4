@@ -11,6 +11,7 @@ public class ClassExercise4
  static void main(String[] args) 
     {
         System.out.println("(*/^*)/     _|_____|_");
+        System.out.println("(/0_0)/  |-(-_-|)    ");
     }
     
 }
